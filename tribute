@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+html {
+ 
+  font-size: 8px;
+}
+
+body {
+  
+  font-family:Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: blue;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 4rem;
+    line-height: 1.5;
+  }
+}
+
+
+h2 {
+  font-size: 3.25rem;
+}
+
+h3 {
+font-size:2.5rem;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: lightblue;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin: 15px 2px 15px 2px;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#headline {
+  margin: 50px 0px;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+</style>
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Pasaniuc Gheorghe</h1>
+      <p>The man who raised me</p>
+      <figure id="img-div">
+        <img
+        id="image"
+        src="https://photos.app.goo.gl/UXG3TYzZnf3TUDp78"
+        alt="The most important man of my life"
+        />
+        <figcaption id="img-caption">
+          The man who loved me the most
+          </figcaption>
+          </figure>
+<section id="tribute-info">
+        <h3 id="headline">Here's a timeline of my grandpa's life:</h3>
+        <ul>
+          <li><strong>1934</strong> - Born in Dagata, Iasi</li>
+          <li><strong>1964</strong> - Leaves his family's home to come to Valea Jiului to work in the mines
+          </li>
+          <li><strong>1966</strong> - He meets my grandma and settles with her for their entire lives
+          </li>
+          <li><strong>1967</strong> - Meets my mother, his newborn daughter
+          </li>
+          <li><strong>1987</strong> - Meets me , his newborn granddaughter
+          </li>
+          <li><strong>1990</strong> - He retires from working into the mines
+          </li>
+          <li><strong>2022</strong> - Dies at the age of 88 
+          </li>
+          </ul>
+          <a
+            id="tribute-link"
+            href="https://photos.app.goo.gl/UXG3TYzZnf3TUDp78"
+            target="_blank"
+        
+         <p><i>My grandpa has been a wonderful man all his life! He has been kind with every person he met in his life, he helped everyone he could. He would always make people laugh with his jokes! It would have been impossible to be upset with him, his way of being was that of an angel with no wings.I am sure that after fighting so much for his life and for all the good he had done in his life, he most definitely had gotten his wings in Heaven...</i></p>
+     </section>
+</main>
+  </body>
+</html>
