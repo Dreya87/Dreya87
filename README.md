@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dreya87
 - 👀 I’m interested in learning everything there is about programming
-- 🌱 I’m currently learningHTML ,CSS and JavaScript at freecodecamp.
+- 🌱 I’m currently learning HTML ,CSS and JavaScript at freecodecamp.
 - 📫 How to reach me : email me at boryxela@gmail.com
 
 <!---
